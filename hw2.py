@@ -1,4 +1,3 @@
-#Shivam Jayeshkumar Mehta - sjmehta@uwm.edu#
 from socket import *
 import base64
 import ssl
